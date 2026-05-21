@@ -1,1 +1,1 @@
-# tomoewatanabe-gemma4-agentic
+# tomoe-watanabe-gemma4-agentic
